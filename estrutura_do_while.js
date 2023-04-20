@@ -1,3 +1,5 @@
+//Descrição: O progama faz o cálculo de dois números, verifica se o usuário quer repitir ou não.
+
 function acaoBotao(){
 
     var numero01, numero02, calculo, sairLoop;
