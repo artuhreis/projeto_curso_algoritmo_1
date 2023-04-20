@@ -1,3 +1,5 @@
+//Descrição: Esse programa faz o cálculo do fatorial de um número
+
 function acaoBotao(){
 
     var numero, fatorial;

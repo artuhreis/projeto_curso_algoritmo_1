@@ -1,3 +1,5 @@
+//Descrição: Essa programa repete a verificação da idade, uma quantidade de vezes proposta pelo usuário.
+
 function acaoBotao(){
 
     var nome, idade, contador, limite;

@@ -1,3 +1,5 @@
+//Descrição: O programa faz com que, ó usúario escolha um respectivo cálculo para dois números.
+
 function acaoBotao(){
     var numero01, numero02, operacao, resultado;
     

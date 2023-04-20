@@ -1,3 +1,5 @@
+//Descrição: O programa faz ó cálculo da média de um aluno, verifica se ele foi Reprovado ou não.
+
 function acaoBotao(){
 var numero01, numero02, operacao, resultado;
 
